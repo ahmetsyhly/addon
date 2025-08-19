@@ -1,0 +1,10 @@
+{
+  "name": "hey_ojak",
+  "version": "1.0",
+  "files": [
+    {
+      "type": "tflite",
+      "filename": "hey_ojak.tflite"
+    }
+  ]
+}
